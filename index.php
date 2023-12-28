@@ -1,7 +1,7 @@
 <?php
 /**
  * File: index.php
- * Version: 0.1.2
+ * Version: 0.1.3
  * Description: Main entry point of the application.
  */
 
