@@ -1,6 +1,6 @@
 # ChatGPT PHP & MySQL Wrapper
 
-Welcome to the ChatGPT PHP & MySQL Wrapper, a powerful and flexible ChatGPT integration for WordPress enthusiasts and developers. This project is born out of a passion for WordPress and a desire to integrate ChatGPT in a familiar environment.
+Welcome to the ChatGPT PHP & MySQL Wrapper, a ChatGPT wrapper built in a LAMP stack environment. This project is ideal for WordPress builders that are looking for a LAMP stack GPT wrapper.
 
 ## Why This Project?
 
