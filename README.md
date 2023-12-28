@@ -25,6 +25,8 @@ With 17 years of experience in building on WordPress, the absence of a PHP MySQL
 - **Encrypted User Data**: Enhance security by encrypting user data stored in the database.
 - **2FA with Popular Code Auth Apps**: Implement two-factor authentication using well-known apps like Google Authenticator and Authy, adding an extra layer of security.
 - **Email Confirmation**: Require users to confirm their email addresses to enhance account security and validity.
+- **One-Click Install on Popular Web Hosts**: Aim to make this app available as a one-click install option on popular web hosting platforms, streamlining the installation process.
+
 
 
 
@@ -83,3 +85,6 @@ More detailed documentation will be provided as the project evolves. Keep an eye
 
 While there's no formal support structure at this stage, you can raise issues on the GitHub repository or reach out via the provided contact email. The community and project maintainers may be able to offer assistance.
 
+### Will there be a one-click install option for this app?
+
+This is far away. I would love to make this application available as a one-click install on popular web hosting platforms. This will simplify the installation process, allowing users to set up the application quickly and efficiently, similar to the ease of installing WordPress.  I think one-click installing is going to be essential to make this app go mainstream and follows in the footsteps of how wordpress went mainstream also.
